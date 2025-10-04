@@ -5,7 +5,7 @@ I documented the process and the design, if you wish to learn more or see earlie
 
 https://www.youtube.com/watch?v=EAl_JSd1YsA
 
-BrodBoost-PD is an open-source project of Axiometa. Device is available for purchase on the [official website]([https://www.axiometa.io/products/brodboost-pd-breadboard-power-supply])
+BrodBoost-PD is an open-source project of Axiometa. Device is available for purchase on the [official website](https://www.axiometa.io/products/brodboost-pd-breadboard-power-supply).
 
 ![PD](https://github.com/user-attachments/assets/356bb271-0374-443e-8028-7578ce3baa5e)
 
